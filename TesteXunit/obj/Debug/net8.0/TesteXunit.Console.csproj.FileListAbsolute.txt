@@ -1,0 +1,14 @@
+D:\Códigos\TesteXunit\TesteXunit\bin\Debug\net8.0\TesteXunit.Console.exe
+D:\Códigos\TesteXunit\TesteXunit\bin\Debug\net8.0\TesteXunit.Console.deps.json
+D:\Códigos\TesteXunit\TesteXunit\bin\Debug\net8.0\TesteXunit.Console.runtimeconfig.json
+D:\Códigos\TesteXunit\TesteXunit\bin\Debug\net8.0\TesteXunit.Console.dll
+D:\Códigos\TesteXunit\TesteXunit\bin\Debug\net8.0\TesteXunit.Console.pdb
+D:\Códigos\TesteXunit\TesteXunit\obj\Debug\net8.0\TesteXunit.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\TesteXunit\TesteXunit\obj\Debug\net8.0\TesteXunit.Console.AssemblyInfoInputs.cache
+D:\Códigos\TesteXunit\TesteXunit\obj\Debug\net8.0\TesteXunit.Console.AssemblyInfo.cs
+D:\Códigos\TesteXunit\TesteXunit\obj\Debug\net8.0\TesteXunit.Console.csproj.CoreCompileInputs.cache
+D:\Códigos\TesteXunit\TesteXunit\obj\Debug\net8.0\TesteXunit.Console.dll
+D:\Códigos\TesteXunit\TesteXunit\obj\Debug\net8.0\refint\TesteXunit.Console.dll
+D:\Códigos\TesteXunit\TesteXunit\obj\Debug\net8.0\TesteXunit.Console.pdb
+D:\Códigos\TesteXunit\TesteXunit\obj\Debug\net8.0\TesteXunit.Console.genruntimeconfig.cache
+D:\Códigos\TesteXunit\TesteXunit\obj\Debug\net8.0\ref\TesteXunit.Console.dll
